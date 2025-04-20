@@ -16,9 +16,9 @@ variable "common_tags" {
 }
 
 variable "zone_name" {
-  default = "daws78s.online"
+  default = "swamy.fun"
 }
 
-variable "app_version" {
+variable "appVersion" {
   
 }
