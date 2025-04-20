@@ -19,6 +19,6 @@ variable "zone_name" {
   default = "swamy.fun"
 }
 
-variable "appVersion" {
+variable "app_version" {
   
 }
